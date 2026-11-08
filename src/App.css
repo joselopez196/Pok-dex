@@ -1,0 +1,19 @@
+.contenedor{
+  width: 100;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.contenedor h1{
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.tabla-contenedor{
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
